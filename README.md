@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Calvin317
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning The Odin Project free course on web development.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on how to learn coding in a focus manner.
 - 📫 How to reach me ...
 
 <!---
